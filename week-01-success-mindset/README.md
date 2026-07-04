@@ -33,7 +33,7 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
+I believe that you ca get more lucky or improve your your chances to get more luck. While I believe there is a random elements to luck. I believe you can get more lucky by trying on new things, saying yes to more invitations you'd normally skip. Being open-minded, acting quickly on intuitions, saying yes to opportunities even when not fully prepared to opportunites can improve chances of getting desired outcomes which might seems as luck to others.
 
 ---
 
@@ -55,11 +55,12 @@ Write each truth in this format:
 
 ### Truth
 
-Add your answer here...
+**Truth:** It's okay to be afraid to do something. But it shouldn't stop from doing it anyways
 
 ### Evidence from my life
 
-Add your answer here...
+**Evidence from my life:** Growing up, I often felt the need to be overly prepared and fully confident before tackling difficult tasks. This tendency sometimes led to analysis paralysis, where I delayed or avoided taking action altogether.
+Over time, I realized that doing something for the first time is rarely easy it’s and often uncomfortable, but it becomes easier with practice. Embracing this mindset helped me become more decisive and take action more quickly.
 
 ---
 
@@ -67,11 +68,12 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+**Truth:** A Goal without a plan is a wish
+
 
 ### Evidence from my life
 
-Add your answer here...
+**Evidence from my life:** We all have goals and aspirations, and often set targets we hope to achieve. However, creating a plan and consistently following through can be challenging. In the past, I advocated for setting goals through systems rather than relying on the SMART goal framework, especially when I wasn’t sure how long a particular task might take. My intention was to avoid setting expectations that were either too high or too low. Eventually, I discovered Parkinson’s Law, which helped me establish more realistic, time-bound goals and improved my ability to stay focused and accountable.
 
 ---
 
@@ -79,11 +81,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+**Truth:** Mentorship provides a shortcut to experience
 
 ### Evidence from my life
 
-Add your answer here...
+I've often taken pride in figuring out how to do things on my own. While I have gotten immerse pride in doing so. Over time, I've come to realize that asking for help is one of the greatest signs of strength. It's okay to seek help & guidance particularly from people already doing what you want to do.
 
 ---
 
@@ -135,11 +137,21 @@ Include this line:
 
 ## Your Article
 
-Add your answer here...
+My 2.0 version had already evolved into a cloud-agnostic DevOps and Agentic AI engineer who consistently built, shipped, and operated intelligent systems across multiple cloud platforms. I had moved beyond theoretical learning and established proof through production-ready projects, public artifacts, and measurable outcomes.
+
+I built and shipped cloud-native applications deployed on both AWS and Azure using Docker and Kubernetes. I designed reusable CI/CD pipelines with GitHub Actions and cloud-native tooling that automated testing, container image builds, security scanning, and multi-environment deployments. These pipelines supported workloads running on managed Kubernetes services and virtual machines, demonstrating flexibility across providers rather than reliance on a single ecosystem.
+
+I authored infrastructure-as-code using Terraform to provision networking, compute, IAM roles, and managed services consistently across AWS and Azure. This work reduced configuration drift and enabled reproducible environments for development, staging, and production. I implemented centralized logging, metrics, and alerting using open-source observability stacks, ensuring reliability and rapid incident response regardless of cloud platform.
+
+On the agentic AI front, I built autonomous agents that interacted with cloud APIs, CI/CD systems, and operational data sources. These agents analyzed logs, metrics, and deployment signals to detect failures, roll back releases, and trigger automated remediation workflows. I shipped agents capable of reasoning over system state, executing playbooks, and escalating issues only when human intervention was required. Each agentic system was documented with architecture diagrams and decision-flow explanations.
+
+I published these projects on GitHub with clear READMEs, deployment guides, and demo videos. I also wrote technical blogs that explained how agentic AI could be applied to real DevOps problems such as incident management, infrastructure drift, and deployment safety. These publications focused on practical lessons learned rather than abstract AI theory.
+
+I earned industry-recognized cloud and DevOps certifications that validated my hands-on experience. In professional settings, I contributed to platform engineering initiatives, improved identity and access workflows, and enforced least-privilege security models across cloud environments. I led small technical efforts, reviewed infrastructure and pipeline changes, and supported teammates through knowledge sharing.
 
 ### Public Link
 
-Paste your link here:
+[Paste your link here:](https://medium.com/p/f431128fb158?postPublishedType=initial)
 
 `__________________________`
 
@@ -173,7 +185,7 @@ If Yes:
 
 ## Answer
 
-Add your answer here...
+**No**
 
 ---
 
@@ -199,16 +211,17 @@ Choose books that improve:
 
 ## Book List
 
-1. Add your answer here...
-2. Add your answer here...
-3. Add your answer here...
-4. Add your answer here...
-5. Add your answer here...
-6. Add your answer here...
-7. Add your answer here...
-8. Add your answer here...
-9. Add your answer here...
-10. Add your answer here...
+1. The 4‑Hour Workweek — by Timothy Ferriss
+2. Atomic Habits — by James Clear
+3. Deep Work — by Cal Newport
+4. The Millionaire Fastlane — by MJ DeMarco
+5. Essentialism — by Greg McKeown
+6. The Almanack of Naval Ravikant — by Eric Jorgenson
+7. Think and Grow Rich - Napolean Hill
+8. The Subtle Art of Not Giving a F*ck — by Mark Manson
+9. Your Money or Your Life — by Vicki Robin
+10. Feel-Good Productivity — Ali Abdaal
+
 
 ---
 
@@ -237,17 +250,16 @@ List topics only. No need to share numbers.
 
 ## My Metrics
 
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-
+* Learning hours per week (DevOps, agentic AI)
+* New skills or tools practiced and documented
+* Projects built, shipped, and publicly documented
+* GitHub commits, pull requests, and portfolio updates
+* Technical blog posts or learning notes published
+* Deep work sessions completed per week
+* Distraction-free focus blocks per day
+* Physical workouts or activity sessions completed
+* Sleep consistency and daily energy levels
+* Personal spending and savings tracked monthly
 ---
 
 # Assignment 7. Brain Dump + 5-Month System Plan
@@ -272,7 +284,7 @@ Examples:
 
 Answer:
 
-Add your answer here...
+**Yes**
 
 ---
 
@@ -290,7 +302,10 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
+* Monday – Thursday:60minutes of deep work focused on DevOps, and agentic AI labs
+* Friday:45 minutes of review and refactoring (cleaning code, improving documentation, fixing gaps)
+* Saturday:3 hours of focused project work (building, shipping, or improving a DevOps or agentic AI project)
+* Sunday:45 minutes weekly review (what was learned, what shipped, blockers, next-week priorities)
 
 ---
 
@@ -298,11 +313,12 @@ Add your answer here...
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+Monday – Thursday: 8:00 AM – 11:00 AM
+Sunday: 10:00 AM – 2:00 PM
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
+5 sessions
 
 ---
 
@@ -316,7 +332,11 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
+* Phone stays in another room during deep work sessions
+* All social media apps logged out on work devices
+* Browser limited to a single tab related to the current task
+* Notifications disabled on laptop and phone during focus blocks
+* Dedicated workspace used only for study and project work
 
 ---
 
@@ -324,15 +344,15 @@ Add your answer here...
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+I realized that I made the most progress when I worked in short, intentional focus blocks with a clearly defined outcome, rather than trying to study for long hours without structure
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+I noticed a tendency to context-switch too often, jumping between learning resources instead of finishing one task or lab before moving to the next.
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+I will start every deep work session with a 5-minute task-definition ritual at 8:00 PM, writing down one specific outcome to complete before the session ends.
 
 ### LinkedIn Post
 
@@ -345,7 +365,7 @@ Paste your LinkedIn post link here:
 ## 10. Proof of Work
 
 - LinkedIn Post URL: **ADD LINK HERE**  
-- Blog / Medium : **ADD LINK HERE**  
+- Blog / Medium : **[ADD LINK HERE](https://medium.com/p/f431128fb158?postPublishedType=initial)**  
 
 ---
 
