@@ -362,7 +362,7 @@ Paste your LinkedIn post link here:
 ## 10. Proof of Work
 
 - LinkedIn Post URL: **ADD LINK HERE**
-- Blog / Medium : **[https://medium.com/p/f431128fb158?postPublishedType=initial]**
+- Blog / Medium : https://medium.com/p/f431128fb158?postPublishedType=initial
 
 ---
 

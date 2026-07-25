@@ -236,7 +236,28 @@ https://www.linkedin.com/feed/update/urn:li:share:7441905893178298369/
 
 Paste the full text of your LinkedIn post here:
 
-Add your post content here...
+As part of the FREE DevOps Micro Internship Cohort by Pravin Mishra, I’ve learnt key concepts that are helpful in the journey.
+
+ChatGPT
+I learnt that AI tools like ChatGPT can be great for learning, but only if you ask clear and specific questions. When I added context and limits to my prompts, I got answers that were both concise and detailed.
+
+Internet & Networking
+Ever wondered what actually happens when you type a web address? Your request gets broken into small data packets via Packet Switching, each traveling the fastest route across the internet. The TCP/IP system makes it work and IP sends each packet to the right place. Finally, HTTPS encrypts everything so your data stays private.
+
+App architecture
+I explored two ways to structure a web application:
+Two-tier app: The frontend talks directly to the database
+Three-tier app: A backend layer sits between the frontend and the database, handling logic and security
+
+DNS
+DNS acts like the internet's phonebook, translating human-friendly names into machine-readable addresses.
+An A record is a basic DNS entry that connects a domain name (like example.com) to its corresponding IPv4 address, so computers know where to find the website.
+
+VS Code Setup
+VS Code is not just a text editor, it is a full development environment. It offers deep integration with terminals, Git, cloud tools, and remote servers, making it a single hub for daily workflow.
+
+P.S. This post is part of the FREE DevOps Micro Internship Cohort run by Pravin Mishra. You can be part of this learning community too.
+JOIN HERE (https://lnkd.in/efAJVbEj) DMI Cohort: https://lnkd.in/egihbGz4
 
 ---
 
@@ -244,19 +265,19 @@ Add your post content here...
 
 ### What did you find easy?
 
-Add your answer here...
+Setting up and navigating Visual Studio Code was straightforward, since I've used it before in previous work. Writing a clear, detailed prompt for ChatGPT in Task 1 also came naturally, as I'm used to structuring specific, well-scoped requests when troubleshooting technical issues.
 
 ---
 
 ### What was difficult?
 
-Add your answer here...
+Explaining core networking concepts like packet switching, IP addressing, and TCP/IP in my own words, concisely, was harder than expected. It's one thing to use these concepts day to day in cloud support, and another to break them down clearly for someone unfamiliar with them in under 150 words
 
 ---
 
 ### What will you improve next week?
 
-Add your answer here...
+I want to get more comfortable translating technical concepts into simple, jargon-free explanations, since that's a skill that matters as much as the hands-on execution in DevOps work
 
 ---
 
