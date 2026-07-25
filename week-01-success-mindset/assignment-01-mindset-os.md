@@ -12,10 +12,10 @@ This is you building your **Mindset OS** — the system you will use for the nex
 
 ### Expectations
 
-* Be honest.
-* Be specific.
-* Be practical.
-* Write like an adult professional: clear sentences, no one-liners.
+- Be honest.
+- Be specific.
+- Be practical.
+- Write like an adult professional: clear sentences, no one-liners.
 
 You will reuse this in later weeks. So do it properly once.
 
@@ -25,15 +25,15 @@ You will reuse this in later weeks. So do it properly once.
 
 ### Rules
 
-* No "safe" answers.
-* Must be your real belief (not copied from internet).
-* Minimum 50 words.
+- No "safe" answers.
+- Must be your real belief (not copied from internet).
+- Minimum 50 words.
 
 **Hint:** What do you believe about career, money, learning, discipline, relationships, health, success, life, tech industry, etc. that most people don't agree with?
 
 ## Answer
 
-I believe that you ca get more lucky or improve your your chances to get more luck. While I believe there is a random elements to luck. I believe you can get more lucky by trying on new things, saying yes to more invitations you'd normally skip. Being open-minded, acting quickly on intuitions, saying yes to opportunities even when not fully prepared to opportunites can improve chances of getting desired outcomes which might seems as luck to others.
+I believe that you can get more lucky or improve your your chances to get more luck. While I believe there is a random elements to luck. I believe you can get more lucky by trying on new things, saying yes to more invitations you'd normally skip. Being open-minded, acting quickly on intuitions, saying yes to opportunities even when not fully prepared to opportunites can improve chances of getting desired outcomes which might seems as luck to others.
 
 ---
 
@@ -55,12 +55,12 @@ Write each truth in this format:
 
 ### Truth
 
-**Truth:** It's okay to be afraid to do something. But it shouldn't stop from doing it anyways
+**It's okay to be afraid to do something. But it shouldn't stop from doing it anyways** 
 
 ### Evidence from my life
 
-**Evidence from my life:** Growing up, I often felt the need to be overly prepared and fully confident before tackling difficult tasks. This tendency sometimes led to analysis paralysis, where I delayed or avoided taking action altogether.
-Over time, I realized that doing something for the first time is rarely easy it’s and often uncomfortable, but it becomes easier with practice. Embracing this mindset helped me become more decisive and take action more quickly.
+**Growing up, I often felt the need to be overly prepared and fully confident before tackling difficult tasks. This tendency sometimes led to analysis paralysis, where I delayed or avoided taking action altogether.
+Over time, I realized that doing something for the first time is rarely easy it’s and often uncomfortable, but it becomes easier with practice. Embracing this mindset helped me become more decisive and take action more quickly** .
 
 ---
 
@@ -68,8 +68,7 @@ Over time, I realized that doing something for the first time is rarely easy it�
 
 ### Truth
 
-**Truth:** A Goal without a plan is a wish
-
+**A Goal without a plan is a wish.** 
 
 ### Evidence from my life
 
@@ -99,41 +98,41 @@ Write as if a journalist is writing about you **3 to 7 years from now** (not 20 
 
 ### Rules
 
-* Write in past tense, like it already happened.
-* Don't use "likes to / wants to / hopes to."
-* Use specifics:
+- Write in past tense, like it already happened.
+- Don't use "likes to / wants to / hopes to."
+- Use specifics:
+  - built
+  - shipped
+  - led
+  - published
+  - earned
+  - relocated
+  - contributed
 
-  * built
-  * shipped
-  * led
-  * published
-  * earned
-  * relocated
-  * contributed
-* Include skills proof:
+- Include skills proof:
+  - projects
+  - portfolios
+  - GitHub
+  - blogs
+  - certifications
+  - job role
+  - leadership
+  - community contribution
 
-  * projects
-  * portfolios
-  * GitHub
-  * blogs
-  * certifications
-  * job role
-  * leadership
-  * community contribution
-* Add 1–3 images if you can (optional but powerful).
+- Add 1–3 images if you can (optional but powerful).
 
 ### Publish It Publicly On Any ONE
 
-* LinkedIn
-* Medium
-* WordPress
-* Blogspot
-* Personal blog
-* Portfolio page
+- LinkedIn
+- Medium
+- WordPress
+- Blogspot
+- Personal blog
+- Portfolio page
 
 Include this line:
 
-> **P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/). My graded progress is public: https://dmi.pravinmishra.com/s/YOUR-GITHUB-USERNAME.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-blog&utm_campaign=cohort3**
+> **P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/). Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-blog&utm_campaign=cohort3**
 
 ## Your Article
 
@@ -151,9 +150,7 @@ I earned industry-recognized cloud and DevOps certifications that validated my h
 
 ### Public Link
 
-[Paste your link here:](https://medium.com/p/f431128fb158?postPublishedType=initial)
-
-`Add your URL here`
+[Paste your link here:]`(https://medium.com/p/f431128fb158?postPublishedType=initial)`
 
 ---
 
@@ -165,13 +162,13 @@ You don't need to write the full story.
 
 Focus on the feeling:
 
-* guilt
-* fear
-* shame
-* stress
-* regret
-* numbness
-* etc.
+- guilt
+- fear
+- shame
+- stress
+- regret
+- numbness
+- etc.
 
 This is about self-awareness, not judgment.
 
@@ -193,21 +190,21 @@ If Yes:
 
 ### Rules
 
-* Mention **Title + Author**
-* Any language allowed
-* No fiction novels
+- Mention **Title + Author**
+- Any language allowed
+- No fiction novels
 
 ### Tip
 
 Choose books that improve:
 
-* mindset
-* communication
-* productivity
-* health
-* money
-* career
-* leadership
+- mindset
+- communication
+- productivity
+- health
+- money
+- career
+- leadership
 
 ## Book List
 
@@ -218,10 +215,9 @@ Choose books that improve:
 5. Essentialism — by Greg McKeown
 6. The Almanack of Naval Ravikant — by Eric Jorgenson
 7. Think and Grow Rich - Napolean Hill
-8. The Subtle Art of Not Giving a F*ck — by Mark Manson
+8. The Subtle Art of Not Giving a F\*ck — by Mark Manson
 9. Your Money or Your Life — by Vicki Robin
 10. Feel-Good Productivity — Ali Abdaal
-
 
 ---
 
@@ -233,33 +229,34 @@ List topics only. No need to share numbers.
 
 ### Must Include
 
-* Learning / skill
-* Output / proof
-* Health / energy
-* Time / focus
-* Money / finance (personal or business)
+- Learning / skill
+- Output / proof
+- Health / energy
+- Time / focus
+- Money / finance (personal or business)
 
 ### Example
 
-* Learning hours per week
-* Deep work sessions per week
-* Projects shipped / documented
-* Steps / workouts
-* Sleep hours
-* Spending tracker
+- Learning hours per week
+- Deep work sessions per week
+- Projects shipped / documented
+- Steps / workouts
+- Sleep hours
+- Spending tracker
 
 ## My Metrics
 
-* Learning hours per week (DevOps, agentic AI)
-* New skills or tools practiced and documented
-* Projects built, shipped, and publicly documented
-* GitHub commits, pull requests, and portfolio updates
-* Technical blog posts or learning notes published
-* Deep work sessions completed per week
-* Distraction-free focus blocks per day
-* Physical workouts or activity sessions completed
-* Sleep consistency and daily energy levels
-* Personal spending and savings tracked monthly
+- Learning hours per week (DevOps, agentic AI)
+- New skills or tools practiced and documented
+- Projects built, shipped, and publicly documented
+- GitHub commits, pull requests, and portfolio updates
+- Technical blog posts or learning notes published
+- Deep work sessions completed per week
+- Distraction-free focus blocks per day
+- Physical workouts or activity sessions completed
+- Sleep consistency and daily energy levels
+- Personal spending and savings tracked monthly
+
 ---
 
 # Assignment 7. Brain Dump + 5-Month System Plan
@@ -270,13 +267,13 @@ Do a brain dump of everything in your mind into a notebook.
 
 Examples:
 
-* Bills
-* Tasks
-* Worries
-* Goals
-* Pending messages
-* Ideas
-* Responsibilities
+- Bills
+- Tasks
+- Worries
+- Goals
+- Pending messages
+- Ideas
+- Responsibilities
 
 ### Did You Do It?
 
@@ -296,16 +293,16 @@ Create a simple plan you can realistically follow for the next 5 months.
 
 Example:
 
-* Mon–Thu: 60 min deep work
-* Sat: DMI session
-* Sun: Weekly review
+- Mon–Thu: 60 min deep work
+- Sat: DMI session
+- Sun: Weekly review
 
 #### My Weekly Routine
 
-* Monday – Thursday:60minutes of deep work focused on DevOps, and agentic AI labs
-* Friday:45 minutes of review and refactoring (cleaning code, improving documentation, fixing gaps)
-* Saturday:3 hours of focused project work (building, shipping, or improving a DevOps or agentic AI project)
-* Sunday:45 minutes weekly review (what was learned, what shipped, blockers, next-week priorities)
+- Monday – Thursday:60minutes of deep work focused on DevOps, and agentic AI labs
+- Friday:45 minutes of review and refactoring (cleaning code, improving documentation, fixing gaps)
+- Saturday:3 hours of focused project work (building, shipping, or improving a DevOps or agentic AI project)
+- Sunday:45 minutes weekly review (what was learned, what shipped, blockers, next-week priorities)
 
 ---
 
@@ -326,17 +323,17 @@ Sunday: 10:00 AM – 2:00 PM
 
 Examples:
 
-* Phone rules
-* Social media rules
-* Environment setup
+- Phone rules
+- Social media rules
+- Environment setup
 
 #### My Distraction Rules
 
-* Phone stays in another room during deep work sessions
-* All social media apps logged out on work devices
-* Browser limited to a single tab related to the current task
-* Notifications disabled on laptop and phone during focus blocks
-* Dedicated workspace used only for study and project work
+- Phone stays in another room during deep work sessions
+- All social media apps logged out on work devices
+- Browser limited to a single tab related to the current task
+- Notifications disabled on laptop and phone during focus blocks
+- Dedicated workspace used only for study and project work
 
 ---
 
@@ -364,8 +361,8 @@ Paste your LinkedIn post link here:
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **ADD LINK HERE**  
-- Blog / Medium : **[ADD LINK HERE](https://medium.com/p/f431128fb158?postPublishedType=initial)**  
+- LinkedIn Post URL: **ADD LINK HERE**
+- Blog / Medium : **[https://medium.com/p/f431128fb158?postPublishedType=initial]**
 
 ---
 
@@ -375,17 +372,16 @@ DevOps Micro Internship (DMI) is a project-based DevOps program run by Pravin Mi
 
 It helps learners build strong DevOps foundations with hands-on experience.
 
-
 ## 📌 Resources
 
-- 🌐 **DMI Official Website:** https://pravinmishra.com/dmi  
-- 🎓 **DevOps for Beginners (Udemy):** https://www.udemy.com/course/devops-for-beginners-docker-k8s-cloud-cicd-4-projects/  
+- 🌐 **DMI Official Website:** https://pravinmishra.com/dmi
+- 🎓 **DevOps for Beginners (Udemy):** https://www.udemy.com/course/devops-for-beginners-docker-k8s-cloud-cicd-4-projects/
 - 🎓 **Ultimate Agentic AI DevOps with Clude Code** https://www.udemy.com/course/ultimate-agentic-ai-devops-with-claude-code/?referralCode=448389767BC96284087B
 - 🎓 **DevOps with Claude Code: Terraform, EKS, ArgoCD & Helm** https://www.udemy.com/course/devops-with-claude-code-terraform-eks-argocd-helm/?referralCode=1C5B734505D65A010FA3
-- ▶️ **YouTube Playlist (DMI Cohort 3):** https://www.youtube.com/playlist?list=PLFeSNDtI4Cho  
-- 🔗 **Pravin Mishra (LinkedIn):** https://www.linkedin.com/in/pravin-mishra-aws-trainer/  
+- ▶️ **YouTube Playlist (DMI Cohort 3):** https://www.youtube.com/playlist?list=PLFeSNDtI4Cho
+- 🔗 **Pravin Mishra (LinkedIn):** https://www.linkedin.com/in/pravin-mishra-aws-trainer/
 - 🏢 **CloudAdvisory (LinkedIn):** https://www.linkedin.com/company/thecloudadvisory/
 
 ---
 
-*This submission is part of DevOps Micro Internship (DMI) Cohort 3 — Agentic AI Track*
+_This submission is part of DevOps Micro Internship (DMI) Cohort 3 — Agentic AI Track_

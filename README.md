@@ -17,7 +17,7 @@
 | **Name**       | Nathan Ohere                                              |
 | **LinkedIn**   | [nathan-ohere](https://www.linkedin.com/in/nathan-ohere/) |
 | **Location**   | Lagos, Nigeria                                            |
-| **Background** | Cloud Support                                             |
+| **Background** | Software Engineer                                         |
 | **Goal**       | To become a competent DevOps Engineer                     |
 
 ---
@@ -109,41 +109,41 @@ Week 01 → Success Mindset
 <!-- Week 13 → Final Project / Capstone -->
 <!-- [![Week 13 – Capstone](./badges/week-13.svg)](./week-13-final-project/) -->
 
-*Complete a week → uncomment the badge → watch your stack grow.*
+_Complete a week → uncomment the badge → watch your stack grow._
 
 ---
 
 ## Program Overview
 
-| Phase | Weeks | Focus |
-|-------|-------|-------|
-| Foundation | 00 – 02 | Networking, Mindset, Agentic AI |
+| Phase       | Weeks   | Focus                               |
+| ----------- | ------- | ----------------------------------- |
+| Foundation  | 00 – 02 | Networking, Mindset, Agentic AI     |
 | Core DevOps | 03 – 05 | Linux & Bash, Git, DevOps Lifecycle |
-| Cloud | 06 – 07 | AWS & Azure Real Deployments |
-| Automation | 08 – 10 | Terraform, Ansible, CI/CD |
-| Containers | 11 – 12 | Docker & Kubernetes |
-| Capstone | 13 | Final Project |
+| Cloud       | 06 – 07 | AWS & Azure Real Deployments        |
+| Automation  | 08 – 10 | Terraform, Ansible, CI/CD           |
+| Containers  | 11 – 12 | Docker & Kubernetes                 |
+| Capstone    | 13      | Final Project                       |
 
 ---
 
 ## Weekly Progress
 
-| Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
-|------|-------|--------|------------|---------------|-----------|
-| 00 | Internet & Networking Basics | ⬜ Not Started | ⏳ Pending | — | — |
-| 01 | Success Mindset | ⬜ Not Started | ⏳ Pending | — | — |
-| 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
-| 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
-| 04 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
-| 05 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
-| 06 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |
-| 07 | Azure Cloud | ⬜ Not Started | ⏳ Pending | — | — |
-| 08 | Terraform | ⬜ Not Started | ⏳ Pending | — | — |
-| 09 | Ansible | ⬜ Not Started | ⏳ Pending | — | — |
-| 10 | Azure DevOps (CI/CD) | ⬜ Not Started | ⏳ Pending | — | — |
-| 11 | Docker | ⬜ Not Started | ⏳ Pending | — | — |
-| 12 | Kubernetes | ⬜ Not Started | ⏳ Pending | — | — |
-| 13 | Final Project | ⬜ Not Started | ⏳ Pending | — | — |
+| Week | Topic                        | Status         | Assignment | LinkedIn Post                                                                                                                                                                                               | Blog Post                                                                         |
+| ---- | ---------------------------- | -------------- | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| 00   | Internet & Networking Basics | ⬜ Not Started | ⏳ Pending | —                                                                                                                                                                                                           | —                                                                                 |
+| 01   | Success Mindset              | ⬜ Not Started | ⏳ Pending | —                                                                                                                                                                                                           | https://medium.com/@nathanohere/nathan-2-0-f431128fb158?postPublishedType=initial |
+| 02   | Agentic AI with Claude Code  | ⬜ Not Started | ⏳ Pending | —                                                                                                                                                                                                           | —                                                                                 |
+| 03   | Linux & Bash for DevOps      | ⬜ Not Started | ⏳ Pending | —                                                                                                                                                                                                           | —                                                                                 |
+| 04   | Git & GitHub                 | ⬜ Not Started | ⏳ Pending | https://www.linkedin.com/posts/nathan-ohere_contributed-a-small-documentation-change-share-7486634581589368832-8Hpo/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADZu0iwBl_DmyISFpqHbKrTgjolskuKVTRs | —                                                                                 |
+| 05   | DevOps Lifecycle & Agile     | ⬜ Not Started | ⏳ Pending | —                                                                                                                                                                                                           | —                                                                                 |
+| 06   | AWS Cloud                    | ⬜ Not Started | ⏳ Pending | —                                                                                                                                                                                                           | —                                                                                 |
+| 07   | Azure Cloud                  | ⬜ Not Started | ⏳ Pending | —                                                                                                                                                                                                           | —                                                                                 |
+| 08   | Terraform                    | ⬜ Not Started | ⏳ Pending | —                                                                                                                                                                                                           | —                                                                                 |
+| 09   | Ansible                      | ⬜ Not Started | ⏳ Pending | —                                                                                                                                                                                                           | —                                                                                 |
+| 10   | Azure DevOps (CI/CD)         | ⬜ Not Started | ⏳ Pending | —                                                                                                                                                                                                           | —                                                                                 |
+| 11   | Docker                       | ⬜ Not Started | ⏳ Pending | —                                                                                                                                                                                                           | —                                                                                 |
+| 12   | Kubernetes                   | ⬜ Not Started | ⏳ Pending | —                                                                                                                                                                                                           | —                                                                                 |
+| 13   | Final Project                | ⬜ Not Started | ⏳ Pending | —                                                                                                                                                                                                           | —                                                                                 |
 
 **Status:** ⬜ Not Started &nbsp;|&nbsp; 🔄 In Progress &nbsp;|&nbsp; ✅ Completed<br>
 **Assignment:** ⏳ Pending &nbsp;|&nbsp; ✅ Solved
@@ -152,7 +152,7 @@ Week 01 → Success Mindset
 
 ## Certificate of Completion
 
-*Awarded upon completing Week 13 — Final Project.*
+_Awarded upon completing Week 13 — Final Project._
 
 <!-- Drop your certificate image here -->
 

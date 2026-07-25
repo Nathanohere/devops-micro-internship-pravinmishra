@@ -25,7 +25,7 @@ Take a screenshot of your interaction showing:
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![Task 1 Screenshot](screenshots/task-1-chatgpt.png)
+![Task 1 Screenshot](screenshots/protocol.jpg)
 
 
 Replace `task-1-chatgpt.png` with your actual screenshot file name.
@@ -34,7 +34,7 @@ Replace `task-1-chatgpt.png` with your actual screenshot file name.
 
 ## What I Learned (2–3 lines)
 
-Add your answer here...
+I learnt that AI tools like ChatGPT can be great for learning, but only if you ask clear and specific questions. When I added context and limits to my prompts, I got answers that were both concise and detailed.
 
 ---
 
@@ -59,7 +59,14 @@ Write a short explanation (**100–150 words**) that includes:
 
 ## Answer
 
-Add your answer here...
+When you type epicreads.com into your browser, your device sends a request over the internet to a server in Finland. This server has a unique IP address, which is a number like 185.34.22.10 that identifies it on the internet, similar to a home address.
+
+Your request is not sent as one big message. The internet breaks it into small pieces called packets. Each packet travels the fastest path to Finland and they are put back together when they arrive.
+
+TCP/IP controls this process. IP makes sure each packet goes to the right address, while TCP makes sure all the packets arrive safely and in the correct order.
+
+HTTPS, which is the secure version of HTTP, manages the communication between your browser and the server. It protects your data by encrypting it so your activity and purchases remain private.
+
 
 ---
 
@@ -91,7 +98,7 @@ EpicReads bookstore has two application versions:
 
 Save your diagram image in the `screenshots` folder and update the file name below.
 
-![Application Architecture Diagram](screenshots/task-3-diagram.png)
+![Application Architecture Diagram](screenshots/3-tier.jpg)
 
 
 Replace `task-3-diagram.png` with your actual diagram file name.
@@ -102,18 +109,18 @@ Replace `task-3-diagram.png` with your actual diagram file name.
 
 ### Frontend
 
-* Add your answer here...
-* Add your answer here...
+* React/Nextjs
+ 
 
 ### Backend
 
-* Add your answer here...
-* Add your answer here...
+* Java/Springboot 
+ 
 
 ### Database
 
-* Add your answer here...
-* Add your answer here...
+* MongoDB
+
 
 ---
 
@@ -142,7 +149,9 @@ In **50–100 words**, explain in your own words:
 
 ## Answer
 
-Add your answer here...
+1. The Domain Name System (DNS) acts like the internet's phonebook. When someone types epicreads.com, DNS translates that human-friendly name into a machine-readable IP address, so browsers know exactly which server to contact.
+
+2. To connect epicreads.com to the IP 52.172.142.222, my friend should create an A Record. An A Record (Address Record) maps a domain name directly to an IPv4 address — which is exactly what 52.172.142.222 is. This means anyone visiting epicreads.com will automatically be routed to the correct server, without needing to remember the raw IP and port.
 
 ---
 
@@ -178,7 +187,7 @@ ls
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![VS Code Setup Screenshot](screenshots/task-5-vscode.png)
+![VS Code Setup Screenshot](screenshots/shorty.png)
 
 
 Replace `task-5-vscode.png` with your actual screenshot file name.
@@ -218,7 +227,7 @@ Add the following credit note at the end of your post:
 Paste your LinkedIn post URL here:
 
 ```text
-Add your URL here...
+https://www.linkedin.com/feed/update/urn:li:share:7441905893178298369/
 ```
 
 ---

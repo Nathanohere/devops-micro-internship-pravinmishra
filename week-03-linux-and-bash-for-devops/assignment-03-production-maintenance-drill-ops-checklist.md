@@ -20,25 +20,25 @@ Verify that the deployed React application is reachable from the browser and con
 
 #### Screenshot 1 — Browser showing the React app with your Full Name visible on the UI
 
-Add your screenshot here.
+./screenshots/deployed.jpg
 
 ---
 
 #### Screenshot 2 — Output of `ip a`
 
-Add your screenshot here.
+./screenshots/IpA.jpg
 
 ---
 
 #### Screenshot 3 — Output of `sudo ss -tulpen`
 
-Add your screenshot here.
+./screenshots/tulpen.jpg
 
 ---
 
 #### Screenshot 4 — Output of `sudo ufw status`
 
-Add your screenshot here.
+./screenshots/ufw.jpg
 
 ---
 
@@ -48,19 +48,25 @@ Answer the following in your own words:
 
 **1. What proves Nginx is listening on 0.0.0.0:80?**
 
-Write your answer here.
+In the ss -tulpen output, there's a line showing port 80 in the LISTEN state, bound to 0.0.0.0 (meaning it accepts connections from any IP, not just the local machine). The process column lists three nginx entries, these are Nginx's worker processes. Together, this confirms Nginx is running and actively listening for web traffic on port 80.
 
 ---
 
 **2. What proves SSH is active on port 22?**
 
-Write your answer here.
+The same output also shows port 22 in the LISTEN state, bound to 0.0.0.0. The process column shows sshd, confirming the SSH service is running and listening for connections. There's a matching entry for [::]:22 as well, which is just the same thing but for IPv6.
 
 ---
 
 **3. Did you find any unexpected open ports? Explain briefly.**
 
-Write your answer here.
+No unexpected ports were found. Every listening socket maps to a known, expected service:
+•	nginx on 80 (your web server)
+•	sshd on 22 (remote access)
+•	chronyd on 323 (NTP time sync, local-only)
+•	systemd-resolved on 53 (local DNS resolver, bound to loopback only)
+•	systemd-networkd (DHCP client communication)
+
 
 ---
 
@@ -74,19 +80,19 @@ Verify that Nginx is properly installed, running, enabled at boot, and safely co
 
 #### Screenshot 1 — Output of `systemctl status nginx --no-pager`
 
-Add your screenshot here.
+./screenshots/pager.jpg
 
 ---
 
 #### Screenshot 2 — Output of `sudo nginx -t`
 
-Add your screenshot here.
+./screenshots/nginxT.jpg
 
 ---
 
 #### Screenshot 3 — Output of `sudo ss -lptn '( sport = :80 )'`
 
-Add your screenshot here.
+./screenshots/lptn.jpg
 
 ---
 
@@ -96,13 +102,14 @@ Answer the following in your own words:
 
 **1. What happens if Nginx fails to restart in production?**
 
-Write your answer here.
-
+If Nginx fails to restart, the website stops working right away and anyone trying to visit it will see a "connection refused" or timeout error, since nothing is listening on port 80 anymore. Any users already connected would also get disconnected. This is exactly why it's important to run nginx -t to check the config before restarting as most restart failures happen because of a config mistake, and testing first helps catch that before it causes downtime.
 ---
 
 **2. What's your basic rollback plan?**
 
-Write your answer here.
+This will be my rollback plan
+First, I'd check the error log (sudo journalctl -u nginx or /var/log/nginx/error.log) to figure out what actually went wrong. Then I'd revert the config file back to the last version I know was working, this is why I always make a backup copy before editing anything (e.g. sudo cp nginx.conf nginx.conf.bak), so I always have something safe to fall back to. Once reverted, I'd run sudo nginx -t again to make sure the restored config is valid before touching the service. If it passes, I'd restart Nginx. If it still refuses to start, I'd also check whether the React build files in /var/www/html were the actual problem and roll those back to the last working deployment too.
+
 
 ---
 
