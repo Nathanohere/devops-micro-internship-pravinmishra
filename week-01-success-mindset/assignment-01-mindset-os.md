@@ -55,12 +55,12 @@ Write each truth in this format:
 
 ### Truth
 
-**It's okay to be afraid to do something. But it shouldn't stop from doing it anyways** 
+**It's okay to be afraid to try something. But it shouldn't stop from doing it anyways**
 
 ### Evidence from my life
 
-**Growing up, I often felt the need to be overly prepared and fully confident before tackling difficult tasks. This tendency sometimes led to analysis paralysis, where I delayed or avoided taking action altogether.
-Over time, I realized that doing something for the first time is rarely easy itâ€™s and often uncomfortable, but it becomes easier with practice. Embracing this mindset helped me become more decisive and take action more quickly** .
+**Evidence from my life:** Growing up, I often felt the need to be overly prepared and fully confident before tackling difficult tasks. This tendency sometimes led to analysis paralysis, where I delayed or avoided taking action altogether.
+Over time, I realized that doing something for the first time is rarely easy itâ€™s and often uncomfortable, but it becomes easier with practice. Embracing this mindset helped me become more decisive and take action more quickly\*\* .
 
 ---
 
@@ -68,7 +68,7 @@ Over time, I realized that doing something for the first time is rarely easy itâ
 
 ### Truth
 
-**A Goal without a plan is a wish.** 
+**A Goal without a plan is a wish.**
 
 ### Evidence from my life
 
@@ -84,7 +84,7 @@ Over time, I realized that doing something for the first time is rarely easy itâ
 
 ### Evidence from my life
 
-I've often taken pride in figuring out how to do things on my own. While I have gotten immerse pride in doing so. Over time, I've come to realize that asking for help is one of the greatest signs of strength. It's okay to seek help & guidance particularly from people already doing what you want to do.
+**Evidence from my life:** I've often taken pride in figuring out how to do things on my own. While I have gotten immerse pride in doing so. Over time, I've come to realize that asking for help is one of the greatest signs of strength. It's okay to seek help & guidance particularly from people already doing what you want to do.
 
 ---
 
@@ -150,7 +150,7 @@ I earned industry-recognized cloud and DevOps certifications that validated my h
 
 ### Public Link
 
-[Paste your link here:]`(https://medium.com/p/f431128fb158?postPublishedType=initial)`
+https://medium.com/p/f431128fb158?postPublishedType=initial
 
 ---
 
@@ -355,7 +355,6 @@ I will start every deep work session with a 5-minute task-definition ritual at 8
 
 Paste your LinkedIn post link here:
 
-`Add your URL here`
 
 ---
 

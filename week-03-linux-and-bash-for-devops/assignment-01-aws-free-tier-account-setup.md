@@ -22,7 +22,7 @@ Demonstrate understanding of AWS basics and Free Tier usage by answering the fol
 
 An AWS account is the personal gateway to Amazon Web Services, providing access to cloud resources like servers, storage, and databases.
 
-At this stage in my DevOps bootctamp,I need to explore the AWS Free Tier, which lets beginners practice without major costs. It also provides identity management, billing, and monitoring tools so i can safely learn and track my usage while building foundational skills in cloud and DevOps
+At this stage in my DevOps bootctamp,I need to explore the AWS Free Tier, which lets beginners practice without major costs. It also provides identity management, billing, and monitoring tools so i can safely learn and track my usage while building foundational skills in cloud and DevOps.
 ---
 
 #### Question 2 — What is AWS Free Tier, and how long does it last?

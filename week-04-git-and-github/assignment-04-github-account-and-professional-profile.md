@@ -20,13 +20,13 @@ Confirm that you have a working GitHub account and can access your GitHub dashbo
 
 #### Screenshot 1 — GitHub dashboard or Home page showing you're signed in, with your username visible
 
-./screenshots/dshbord.jpg
+![prod](./screenshots/dshbord.jpg)
 
 ---
 
 #### Screenshot 2 (Optional but Recommended) — Your GitHub profile with `https://github.com/<username>` visible in the browser address bar
 
-./screenshots/githubProf.jpg
+![prod](./screenshots/githubProf.jpg)
 
 ---
 
@@ -40,19 +40,19 @@ Browse Trending, search for a public project, star at least one repository, and 
 
 #### Screenshot 3 — GitHub Trending page visible in the browser
 
-./screenshots/trending
+![prod](./screenshots/trending)
 
 ---
 
 #### Screenshot 4 — A repository page showing the Star button in the Starred state
 
-./screenshots/strred.jpg
+![prod](./screenshots/strred.jpg)
 
 ---
 
 #### Screenshot 5 — Your forked repository page with your username and repository name visible in the URL
 
-./screenshots/forked.jpg
+![prod](./screenshots/forked.jpg)
 
 ---
 
@@ -66,7 +66,7 @@ Add a professional bio to your GitHub profile — and optionally your location, 
 
 #### Screenshot 6 — Your public GitHub profile showing your username and professional bio
 
-Add your screenshot here.
+![prod](./screenshots/Bio.jpg)
 
 ---
 
